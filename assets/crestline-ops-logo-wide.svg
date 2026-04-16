@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+  <title id="title">Crestline Ops</title>
+  <desc id="desc">Crestline Ops logo</desc>
+  <defs>
+    <linearGradient id="mark" x1="45" x2="160" y1="38" y2="154" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2aa7ef"/>
+      <stop offset="1" stop-color="#0f2f5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="190" rx="0" fill="#fff"/>
+  <path d="M119 31c-40 0-72 30-72 68s32 68 72 68c24 0 45-10 58-26l-29-20c-7 8-18 13-30 13-21 0-38-16-38-35s17-35 38-35c11 0 21 4 29 12l28-21c-13-15-33-24-56-24z" fill="url(#mark)"/>
+  <path d="M142 93h52M191 92l42-42M180 129l36 34" fill="none" stroke="#77c64a" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="142" cy="93" r="16" fill="#fff" stroke="#77c64a" stroke-width="12"/>
+  <circle cx="194" cy="93" r="16" fill="#fff" stroke="#77c64a" stroke-width="12"/>
+  <circle cx="232" cy="49" r="17" fill="#fff" stroke="#77c64a" stroke-width="12"/>
+  <circle cx="176" cy="132" r="13" fill="#fff" stroke="#2493d1" stroke-width="11"/>
+  <circle cx="216" cy="166" r="18" fill="#fff" stroke="#17345f" stroke-width="12"/>
+  <text x="270" y="116" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="760" letter-spacing="0" fill="#223047">Crestline</text>
+  <text x="540" y="116" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="760" letter-spacing="0" fill="#68b945">Ops</text>
+</svg>

@@ -1,3 +1,3 @@
 # Crestline Ops
 
-Operational automation systems for growing teams.
+Static landing page for Crestline Ops.
